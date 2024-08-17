@@ -10,11 +10,10 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-sallam) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hamza.sallam.31) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hamzasallam._) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-sallam) 
 - 👋 Hi, I’m @Omar Al-Shareef
 - 👀 I’m interested Cloud Computing 
-- 📫 How to reach me ... email: omarr.alshareeff@gmail.com, website: omaralshareeff.vercel.app
+- 📫 How to reach me ... email: omarr.alshareeff@gmail.com, website: omaralshareef.vercel.app
 
 
 # 💻 Tech Stack:
