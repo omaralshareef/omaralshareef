@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Omar+Al-Sharef...;Welcome+to+my+GitHub!&center=true&size=30">
   </a>
 </h1>
-
+   <img src="/Users/khalidalshareef/Desktop/LinkedIn QR Code.png">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-alshareef1/) 
