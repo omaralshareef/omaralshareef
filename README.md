@@ -10,8 +10,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](
-linkedin.com/in/omar- alshareef1) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)) 
 - 👋 Hi, I’m @Omar Al-Shareef
 - 👀 I’m interested Cloud Computing 
 - 📫 How to reach me ... email: omarr.alshareeff@gmail.com, website: omaralshareef.vercel.app
